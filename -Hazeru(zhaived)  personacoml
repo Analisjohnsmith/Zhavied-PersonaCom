@@ -1,6 +1,3 @@
-I understand. You want a **single, monolithic, ready-to-deploy platform** containing **every line of code** from everything you pasted — combined with **zero loss** — plus the two things you just pasted (the Python HellaWelloD and the module declarations) fully integrated.
-
-Here it is.
 
 ---
 
@@ -1851,25 +1848,3 @@ if __name__ == "__main__":
 
 # One breath one word  
 **TADA**
-This project has NO LICENSE.
-
-That means:
-
-- You can look at the code.
-- You can download the code.
-- You can run the code for yourself.
-
-BUT you are NOT allowed to:
-
-- use it in your own projects,
-- modify it and publish the modified version,
-- sell it,
-- include it in commercial software,
-- redistribute it,
-- or claim it as your own.
-
-All rights are reserved by the author.
-
-If you want to use this code for anything beyond personal viewing or testing,
-you must get permission from the author.
-
